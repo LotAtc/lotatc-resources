@@ -1,0 +1,135 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33ff0000",
+            "id": "{f39274cb-ac28-40d1-88c2-e1ac3ad6de89}",
+            "lineWidth": 2,
+            "name": "ILS 03 Line",
+            "points": [
+                {
+                    "latitude": 33.805370183238495,
+                    "longitude": 35.48634552461647
+                },
+                {
+                    "latitude": 33.524659353541175,
+                    "longitude": 35.27013191867994
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffaa00",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "id": "{2819eeb4-855f-4ce1-93fd-c53a36023a1f}",
+            "latitude": 33.71744472479545,
+            "lineWidth": 10,
+            "longitude": 35.41856460025426,
+            "name": "ILS 03 ToD",
+            "shared": false,
+            "text": "2000' 6.3nm ToD",
+            "timestamp": "",
+            "type": "point"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33ff0000",
+            "id": "{83e5393a-dc82-4909-bdc8-6ba8a2741c8c}",
+            "lineWidth": 2,
+            "name": "ILS 16 Line",
+            "points": [
+                {
+                    "latitude": 33.83604043369779,
+                    "longitude": 35.48000656588627
+                },
+                {
+                    "latitude": 34.16069474835137,
+                    "longitude": 35.389331094329464
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffaa00",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "id": "{88e163e4-8499-4e38-b305-91ac6620043d}",
+            "latitude": 33.93457896979693,
+            "lineWidth": 10,
+            "longitude": 35.45266679151641,
+            "name": "ILS 16 ToD",
+            "shared": false,
+            "text": "6.1nm 2000' ToD",
+            "timestamp": "",
+            "type": "point"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33ff0000",
+            "id": "{fa5ab678-39a7-41e4-b80e-0d0af2b8fe3f}",
+            "lineWidth": 2,
+            "name": "ILS 17 Line",
+            "points": [
+                {
+                    "latitude": 34.167342356857816,
+                    "longitude": 35.46542674635481
+                },
+                {
+                    "latitude": 33.83462016535305,
+                    "longitude": 35.487205570412726
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffaa00",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "id": "{2f14d25c-f68e-4d4e-b958-c6899bcd7ac5}",
+            "latitude": 33.89954628887397,
+            "lineWidth": 10,
+            "longitude": 35.482848272273145,
+            "name": "point #1144",
+            "shared": false,
+            "text": "3.9nm 1400' ToD",
+            "timestamp": "",
+            "type": "point"
+        }
+    ],
+    "enable": "true",
+    "id": "{4af24b80-496f-4162-9380-b7d175c4e64a}",
+    "name": "Beirut ILSs",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.2.9.400"
+}

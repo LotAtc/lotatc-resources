@@ -1,0 +1,210 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff00007f",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff00ffff",
+                "font": "Lato"
+            },
+            "id": "{1c083419-7ed5-43e5-a020-7fd72d005cc0}",
+            "latitude": 33.807603325165275,
+            "lineWidth": 10,
+            "longitude": 35.48620646426687,
+            "name": "KAD VOR",
+            "shared": false,
+            "text": "KAD 112.6",
+            "timestamp": "",
+            "type": "point"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffaaff",
+            "colorBg": "#33ff0000",
+            "id": "{8f0577b6-5e78-4fbd-b250-c387fea41c96}",
+            "lineWidth": 2,
+            "name": "020 radial",
+            "points": [
+                {
+                    "latitude": 34.19538636189393,
+                    "longitude": 35.68393075973924
+                },
+                {
+                    "latitude": 33.807603328535215,
+                    "longitude": 35.486199000803225
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffaaff",
+            "colorBg": "#00ff0000",
+            "font": {
+                "color": "#ff42ad24",
+                "font": "Lato"
+            },
+            "id": "{1767fd59-1a2b-48ab-a394-eb7827ffbd9a}",
+            "latitude": 33.80760221219935,
+            "lineWidth": 2,
+            "longitude": 35.486196348391076,
+            "name": "25nm ring",
+            "radius": 46806.02979322455,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffaaff",
+            "colorBg": "#33ff0000",
+            "id": "{956c814b-0f8e-4e33-b68f-7c875330d54b}",
+            "lineWidth": 2,
+            "name": "200 radial",
+            "points": [
+                {
+                    "latitude": 33.42835550090728,
+                    "longitude": 35.27023682492123
+                },
+                {
+                    "latitude": 33.80750526123933,
+                    "longitude": 35.48614392179607
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffaaff",
+            "colorBg": "#00ff0000",
+            "id": "{c8a58c20-6fcf-4859-9e52-a3e6230611f7}",
+            "lineWidth": 2,
+            "name": "8k ring",
+            "points": [
+                {
+                    "latitude": 33.96405563698516,
+                    "longitude": 35.565784366933144
+                },
+                {
+                    "latitude": 33.948537382261314,
+                    "longitude": 35.60083644409724
+                },
+                {
+                    "latitude": 33.92290173928436,
+                    "longitude": 35.63668095595466
+                },
+                {
+                    "latitude": 33.88176024896565,
+                    "longitude": 35.67027567879606
+                },
+                {
+                    "latitude": 33.81741821618174,
+                    "longitude": 35.69045224184916
+                },
+                {
+                    "latitude": 33.74334083366742,
+                    "longitude": 35.67548224373704
+                },
+                {
+                    "latitude": 33.6819470276234,
+                    "longitude": 35.62430573852805
+                },
+                {
+                    "latitude": 33.64432628986229,
+                    "longitude": 35.54252248019509
+                },
+                {
+                    "latitude": 33.63823977822942,
+                    "longitude": 35.46245039721276
+                },
+                {
+                    "latitude": 33.65379835077541,
+                    "longitude": 35.39847800511038
+                },
+                {
+                    "latitude": 33.80757929688575,
+                    "longitude": 35.48616969440084
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{4f11109e-6fbe-4154-a33b-82485205820e}",
+            "latitude": 33.89231886862137,
+            "lineWidth": 10,
+            "longitude": 35.24447752016772,
+            "name": "5k",
+            "shared": false,
+            "text": "5-0",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{2c8c4a9c-cb77-4713-8588-3c03047f44b6}",
+            "latitude": 33.7865947203847,
+            "lineWidth": 10,
+            "longitude": 35.57398487743609,
+            "name": "8k",
+            "shared": false,
+            "text": "8-0",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{f4f36402-9341-40a4-9d50-2cc6f401e8a8}",
+            "latitude": 33.698676092068986,
+            "lineWidth": 10,
+            "longitude": 35.77415289825109,
+            "name": "11k",
+            "shared": false,
+            "text": "11-0",
+            "timestamp": "",
+            "type": "text"
+        }
+    ],
+    "enable": "true",
+    "id": "{3ef3e7c3-c96b-4633-95f5-daedaa3a722c}",
+    "name": "Beirut Lido MSAs",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.2.9.400"
+}
