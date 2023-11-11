@@ -1,0 +1,92 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffaaff",
+            "colorBg": "#00ff0000",
+            "font": {
+                "color": "#ff4ae75d",
+                "font": "Lato"
+            },
+            "id": "{c9904392-cfbe-460b-88aa-8e0b62c12b67}",
+            "latitude": 27.67416343855242,
+            "lineWidth": 1,
+            "longitude": 54.38237797685173,
+            "name": "circle #2818",
+            "radius": 45925.92999316969,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "id": "{c106935f-a98b-499f-bb34-87abb33324ef}",
+            "lineWidth": 1,
+            "name": "line #1419",
+            "points": [
+                {
+                    "latitude": 27.674816940379305,
+                    "longitude": 54.75562734050294
+                },
+                {
+                    "latitude": 27.674835984277955,
+                    "longitude": 54.38441187572468
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "id": "{9cab034c-ccd1-485f-b5af-b395154c4402}",
+            "latitude": 27.667416202606365,
+            "lineWidth": 10,
+            "longitude": 54.64235419244886,
+            "name": "text #2072",
+            "shared": false,
+            "text": "LAR 117.9 - 088R - 3200' from 20nm",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{bc530932-6214-4fec-ad7e-a00accdd00f9}",
+            "latitude": 27.853258284617894,
+            "lineWidth": 10,
+            "longitude": 54.343224362472654,
+            "name": "text #3566",
+            "shared": false,
+            "text": "9-3",
+            "timestamp": "",
+            "type": "text"
+        }
+    ],
+    "enable": "true",
+    "id": "{75591ef4-b64c-4581-9903-2a4de9ee8782}",
+    "name": "Lar MRC",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.2.9.400"
+}

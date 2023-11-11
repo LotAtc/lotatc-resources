@@ -1,0 +1,114 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff00007f",
+            "colorBg": "#00ff0000",
+            "font": {
+                "color": "#ff290fe8",
+                "font": "Lato"
+            },
+            "id": "{dd78b7b9-3382-4c54-81e6-eb6f396db100}",
+            "latitude": 27.217710924821223,
+            "lineWidth": 1,
+            "longitude": 56.37932783089272,
+            "name": "circle #3171",
+            "radius": 45686.19998854061,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "id": "{bd11aa75-23f6-4d24-9278-8190f770f078}",
+            "lineWidth": 1,
+            "name": "line #2401",
+            "points": [
+                {
+                    "latitude": 27.21780010583623,
+                    "longitude": 56.378915571583434
+                },
+                {
+                    "latitude": 27.01337364202537,
+                    "longitude": 55.97876774103162
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "id": "{5b29894e-ff93-43d9-a6d2-6a0b9066442d}",
+            "lineWidth": 1,
+            "name": "line #9435",
+            "points": [
+                {
+                    "latitude": 27.217671976971683,
+                    "longitude": 56.379452012230814
+                },
+                {
+                    "latitude": 27.429297455490893,
+                    "longitude": 56.77382629487835
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{a8ab46c1-ca3e-45f6-b4dc-281c4531b6b4}",
+            "latitude": 27.447497967462265,
+            "lineWidth": 10,
+            "longitude": 56.24694225327738,
+            "name": "text #3482",
+            "shared": false,
+            "text": "9-7",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{c5a20e91-a02b-41d3-b8a1-b35b2f090f8e}",
+            "latitude": 27.0758962216152,
+            "lineWidth": 10,
+            "longitude": 56.360522046639005,
+            "name": "text #2174",
+            "shared": false,
+            "text": "1-6",
+            "timestamp": "",
+            "type": "text"
+        }
+    ],
+    "enable": "true",
+    "id": "{6f9bb71b-510d-42d6-ad32-1cceecc6faf2}",
+    "name": "Bandar Abbas MRC",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.2.9.400"
+}

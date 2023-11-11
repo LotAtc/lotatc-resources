@@ -1,0 +1,92 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffaaff",
+            "colorBg": "#00ff0000",
+            "font": {
+                "color": "#ffcd88c2",
+                "font": "Lato"
+            },
+            "id": "{ccd3a8d7-0fd5-4d3e-9d01-3813f3072dae}",
+            "latitude": 29.54269524823536,
+            "lineWidth": 1,
+            "longitude": 52.58814953202568,
+            "name": "circle #1027",
+            "radius": 46748.7656648179,
+            "shared": false,
+            "text": "4879'",
+            "timestamp": "",
+            "type": "circle"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{2f45c9ee-d7fb-4289-b6ab-9e353d6f46e2}",
+            "latitude": 29.33769216653172,
+            "lineWidth": 10,
+            "longitude": 52.50667922260348,
+            "name": "text #3958",
+            "shared": false,
+            "text": "12-2",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "id": "{47a63e56-7cfa-4468-97a3-24325f37f857}",
+            "lineWidth": 1,
+            "name": "line #3173",
+            "points": [
+                {
+                    "latitude": 29.4223793006963,
+                    "longitude": 52.869590261633334
+                },
+                {
+                    "latitude": 29.532444402516692,
+                    "longitude": 52.612279611514765
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "id": "{fc0757f1-ce0f-485f-ab35-7d0743baca5b}",
+            "latitude": 29.4811310526557,
+            "lineWidth": 10,
+            "longitude": 52.81805042769389,
+            "name": "text #1492",
+            "shared": false,
+            "text": "94X - 114R / 294M - 16nm - 5400'",
+            "timestamp": "",
+            "type": "text"
+        }
+    ],
+    "enable": "true",
+    "id": "{1fabf359-f5fe-4b10-ada6-2d6d7be79906}",
+    "name": "Shiraz MRC",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.2.9.400"
+}
