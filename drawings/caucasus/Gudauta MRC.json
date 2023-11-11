@@ -1,0 +1,195 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "id": "{a975865c-db69-4b93-8cc1-4eb0a942638d}",
+            "lineWidth": 1,
+            "name": "line #3539",
+            "points": [
+                {
+                    "latitude": 43.11511080757814,
+                    "longitude": 40.569806683900055
+                },
+                {
+                    "latitude": 42.95803222909037,
+                    "longitude": 41.09235209049075
+                },
+                {
+                    "latitude": 42.95803222909037,
+                    "longitude": 41.091616111041446
+                },
+                {
+                    "latitude": 42.95803222909037,
+                    "longitude": 41.091616111041446
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff000000",
+            "colorBg": "#00ffffff",
+            "font": {
+                "color": "#ff38131d",
+                "font": "Lato"
+            },
+            "id": "{eb9797f9-69e6-4441-867d-fde993f56898}",
+            "latitude": 43.11511080757814,
+            "lineWidth": 1,
+            "longitude": 40.56907070445075,
+            "name": "circle #1399",
+            "radius": 45793.467769308525,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "id": "{ca10d5bd-fa40-4ca8-8637-a7fcd5e31b4f}",
+            "lineWidth": 1,
+            "name": "line #1690",
+            "points": [
+                {
+                    "latitude": 43.115741144177136,
+                    "longitude": 40.56869961102103
+                },
+                {
+                    "latitude": 43.198869184581596,
+                    "longitude": 40.0146821117477
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{e37b7d8f-858b-4cd2-9a61-4ed88c3ce52a}",
+            "latitude": 43.160449374617365,
+            "lineWidth": 10,
+            "longitude": 40.58853980289385,
+            "name": "text #2709",
+            "shared": false,
+            "text": "3-0",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{66a35627-9083-41d8-bf6e-33d233940275}",
+            "latitude": 43.31660517627574,
+            "lineWidth": 10,
+            "longitude": 40.59973720618913,
+            "name": "text #1868",
+            "shared": false,
+            "text": "11-3",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{618cc3ff-8ccd-4821-8d0c-75248363f8e7}",
+            "latitude": 42.91199390824688,
+            "lineWidth": 10,
+            "longitude": 40.495761318365254,
+            "name": "text #2233",
+            "shared": false,
+            "text": "1-5",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#00ff0000",
+            "id": "{c71056b3-5cee-41d7-ab9a-5f8e24f68abc}",
+            "lineWidth": 1,
+            "name": "polygon #1086",
+            "points": [
+                {
+                    "latitude": 43.13922221799648,
+                    "longitude": 40.42184357282909
+                },
+                {
+                    "latitude": 43.18034268483967,
+                    "longitude": 40.44454369220742
+                },
+                {
+                    "latitude": 43.20875206433907,
+                    "longitude": 40.48653891295751
+                },
+                {
+                    "latitude": 43.225570800883794,
+                    "longitude": 40.55161258837961
+                },
+                {
+                    "latitude": 43.22060837749217,
+                    "longitude": 40.615551257799495
+                },
+                {
+                    "latitude": 43.19661763686752,
+                    "longitude": 40.66965320891697
+                },
+                {
+                    "latitude": 43.15744006722743,
+                    "longitude": 40.70635173519179
+                },
+                {
+                    "latitude": 43.11492330625693,
+                    "longitude": 40.718080130144415
+                },
+                {
+                    "latitude": 43.075416988620574,
+                    "longitude": 40.705973399837575
+                },
+                {
+                    "latitude": 43.116028011650734,
+                    "longitude": 40.56825934257424
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon"
+        }
+    ],
+    "enable": "true",
+    "id": "{2dca2fcf-749e-4d6d-815b-7ebf6fe41dca}",
+    "name": "Gudauta MRC",
+    "shared": true,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.2.9.400"
+}
