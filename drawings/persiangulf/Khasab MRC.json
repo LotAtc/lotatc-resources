@@ -1,0 +1,51 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff00007f",
+            "colorBg": "#00ff0000",
+            "font": {
+                "color": "#ff4c7ca6",
+                "font": "Lato"
+            },
+            "id": "{acc8130a-bcad-4fd9-be2f-dde4542d3ce2}",
+            "latitude": 26.16788043831564,
+            "lineWidth": 1,
+            "longitude": 56.239745412655935,
+            "name": "circle #2261",
+            "radius": 45699.7274663859,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{00850d86-5113-4a87-8954-5bb09244bc36}",
+            "latitude": 26.16925500788679,
+            "lineWidth": 10,
+            "longitude": 56.060336308376094,
+            "name": "text #1702",
+            "shared": false,
+            "text": "9-0",
+            "timestamp": "",
+            "type": "text"
+        }
+    ],
+    "enable": "true",
+    "id": "{645089c8-892e-4c56-be82-6871dd892184}",
+    "name": "Khasab MRC",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.2.9.400"
+}

@@ -1,0 +1,191 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff00007f",
+            "colorBg": "#00ff0000",
+            "font": {
+                "color": "#fffa642e",
+                "font": "Lato"
+            },
+            "id": "{e848ca3b-8577-4376-be56-254fba9f8ee9}",
+            "latitude": 41.61068930701282,
+            "lineWidth": 1,
+            "longitude": 41.600676819207706,
+            "name": "circle #2698",
+            "radius": 46093.77385930768,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "id": "{4fba7edb-b1e5-447d-b956-29a5451b3326}",
+            "lineWidth": 1,
+            "name": "line #2924",
+            "points": [
+                {
+                    "latitude": 41.33244109911673,
+                    "longitude": 41.19077530543396
+                },
+                {
+                    "latitude": 41.60961256134691,
+                    "longitude": 41.60055304278049
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "id": "{75ea715c-b2d3-4523-87f1-c296582780b3}",
+            "lineWidth": 1,
+            "name": "line #1887",
+            "points": [
+                {
+                    "latitude": 42.01426406738725,
+                    "longitude": 41.72362649798356
+                },
+                {
+                    "latitude": 41.60968037582504,
+                    "longitude": 41.60071711738922
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{372d5db3-d7fd-4296-9a39-1c406a1bf125}",
+            "latitude": 41.75612820193263,
+            "lineWidth": 10,
+            "longitude": 41.33648234515468,
+            "name": "text #2220",
+            "shared": false,
+            "text": "1-5",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#00ff0000",
+            "id": "{87a279cd-b1bc-41cd-ac74-4ac30cf3c09e}",
+            "lineWidth": 1,
+            "name": "polygon #3424",
+            "points": [
+                {
+                    "latitude": 41.6095743365092,
+                    "longitude": 41.60022275411342
+                },
+                {
+                    "latitude": 41.73006267057025,
+                    "longitude": 41.637754898229645
+                },
+                {
+                    "latitude": 41.71138673820866,
+                    "longitude": 41.692712680644775
+                },
+                {
+                    "latitude": 41.67735591548982,
+                    "longitude": 41.738734238236276
+                },
+                {
+                    "latitude": 41.61825970217736,
+                    "longitude": 41.76464929015327
+                },
+                {
+                    "latitude": 41.56445844575182,
+                    "longitude": 41.75124495298931
+                },
+                {
+                    "latitude": 41.51797284967588,
+                    "longitude": 41.710585130220494
+                },
+                {
+                    "latitude": 41.49187277148648,
+                    "longitude": 41.64445706681164
+                },
+                {
+                    "latitude": 41.490534022341805,
+                    "longitude": 41.56581828872115
+                },
+                {
+                    "latitude": 41.52031464993684,
+                    "longitude": 41.48717951063068
+                },
+                {
+                    "latitude": 41.527674041919454,
+                    "longitude": 41.47690285211925
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{25113cd2-635c-4773-86e7-9199aa9c5441}",
+            "latitude": 41.613633781836135,
+            "lineWidth": 10,
+            "longitude": 41.69126889074809,
+            "name": "text #2113",
+            "shared": false,
+            "text": "5-8",
+            "timestamp": "",
+            "type": "text"
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffaaff",
+                "font": "Lato,20,-1,5,75,0,0,0,0,0,Bold"
+            },
+            "id": "{634173cb-c4a2-4e21-9e5b-48ec8f351b42}",
+            "latitude": 41.56296189561604,
+            "lineWidth": 10,
+            "longitude": 41.92941751039157,
+            "name": "text #2476",
+            "shared": false,
+            "text": "12-0",
+            "timestamp": "",
+            "type": "text"
+        }
+    ],
+    "enable": "true",
+    "id": "{3088ca13-e2d7-44a7-822b-8ead171b8793}",
+    "name": "Batumi MRC",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.2.9.400"
+}
