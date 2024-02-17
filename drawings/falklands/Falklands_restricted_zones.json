@@ -1,1 +1,604 @@
+{
+    "author": "buur",
+    "drawings": [
+        {
+            "altitude": null,
+            "author": "buur",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33aaffff",
+            "font": {
+                "color": "#ffb5824d",
+                "font": "Lato"
+            },
+            "id": "{7b43c2c0-f56d-4047-8e8a-4c25e6b9654a}",
+            "latitude": -52.916667,
+            "lineWidth": 1,
+            "longitude": -70.566667,
+            "name": "SCR 18",
+            "radius": 1852,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "buur",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33aaffff",
+            "font": {
+                "color": "#ffb5824d",
+                "font": "Lato"
+            },
+            "id": "{7b43c2c0-f56d-4047-8e8a-4c25e6b9654a}",
+            "latitude": -52.85,
+            "lineWidth": 1,
+            "longitude": -70.566667,
+            "name": "SCR 19",
+            "radius": 1852,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle",
+            "visible": true
+        },		
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff010260",
+                "font": "Lato"
+            },
+            "id": "{af2a3df8-6bc3-4e6e-a72e-c9501aefee60}",
+            "latitude": 42.75663984466322,
+            "lineWidth": 10,
+            "longitude": 42.18261151756428,
+            "name": "point #1742",
+            "shared": false,
+            "text": "None",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "id": "{0b4d0e76-2e2a-4e61-981f-b0011bb62a7a}",
+            "lineWidth": 1,
+            "name": "line #1153",
+            "points": [
+                {
+                    "latitude": 42.36823170702854,
+                    "longitude": 42.50670819716012
+                },
+                {
+                    "latitude": 42.593075043528046,
+                    "longitude": 43.03405194719633
+                },
+                {
+                    "latitude": 42.46353426814357,
+                    "longitude": 43.717950872937365
+                },
+                {
+                    "latitude": 42.732435188128456,
+                    "longitude": 43.98711591204864
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line",
+            "visible": true
+        },
+        {
+            "author": "buur",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33aaffff",
+            "id": "{527de135-ef20-4c5e-bbb6-c7e9631c54fc}",
+            "lineWidth": 1,
+            "name": "SCR 17",
+            "points": [
+                {
+                    "latitude": -52.958333,
+                    "longitude": -71.25
+                },
+                {
+                    "latitude": -52.958333,
+                    "longitude": -71.208333
+                },
+                {
+                    "latitude": -53,
+                    "longitude": -71.208333
+                },
+                {
+                    "latitude": -53,
+                    "longitude": -71.25
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+		{
+            "author": "buur",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33aaffff",
+            "id": "{527de135-ef20-4c5e-bbb6-c7e9631c54fc}",
+            "lineWidth": 1,
+            "name": "SCR 45",
+            "points": [
+                {
+                    "latitude": -53.289236,
+                    "longitude": -71.139242
+                },
+                {
+                    "latitude": -54.312628,
+                    "longitude": -72.079919
+                },
+                {
+                    "latitude": -54.119503,
+                    "longitude": -72.531651
+                },
+                {
+                    "latitude": -53.872402,
+                    "longitude": -72.896331
+                },
+				{
+                    "latitude": -53.584041,
+                    "longitude":  -73.157244
+                },
+				{
+                    "latitude": -53.268882,
+                    "longitude": -73.303784
+                },
+				{
+                    "latitude": -52.942323,
+                    "longitude": -73.331517
+                },
+				{
+                    "latitude": -52.619926,
+                    "longitude": -73.241865
+                },
+				{
+                    "latitude": -52.316704,
+                    "longitude": -73.041508
+                },
+				{
+                    "latitude": -52.045344,
+                    "longitude": -72.743869
+                },
+				{
+                    "latitude": -52.822403,
+                    "longitude": -71.317978
+                },
+				
+				{
+                    "latitude": -52.881665,
+                    "longitude": -71.368663
+                },
+				{
+                    "latitude": -52.945842,
+                    "longitude": -71.398912
+                },
+				{
+                    "latitude": -53.012375,
+                    "longitude": -71.407426
+                },
+				{
+                    "latitude": -53.078598,
+                    "longitude": -71.393763
+                },
+				{
+                    "latitude": -53.141846,
+                    "longitude": -71.358370
+                },
+				{
+                    "latitude": -53.199559,
+                    "longitude": -71.302581
+                },
+				{
+                    "latitude": -53.249392,
+                    "longitude": -71.228577
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+		{
+            "author": "buur",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33aaffff",
+            "id": "{527de135-ef20-4c5e-bbb6-c7e9631c54fc}",
+            "lineWidth": 1,
+            "name": "SCR 46",
+            "points": [
+                {
+                    "latitude": -52.717247,
+                    "longitude": -71.133908
+                },
+                {
+                    "latitude": -52.283689,
+                    "longitude": -71.550789
+                },
+                {
+                    "latitude": -52.247029,
+                    "longitude": -71.436102
+                },
+                {
+                    "latitude": -52.217081,
+                    "longitude": -71.316414
+                },
+				{
+                    "latitude": -52.194102,
+                    "longitude":  -71.192755
+                },
+				{
+                    "latitude": -52.178294,
+                    "longitude": -71.066184
+                },
+				{
+                    "latitude": -52.169796,
+                    "longitude": -70.937776
+                },
+				{
+                    "latitude": -52.168683,
+                    "longitude": -70.808628
+                },
+				{
+                    "latitude": -52.174971,
+                    "longitude": -70.679838
+                },
+				{
+                    "latitude": -52.183694,
+                    "longitude": -70.550725
+                },
+				{
+                    "latitude": -52.678964,
+                    "longitude": -70.732372
+                },
+				
+				{
+                    "latitude": -52.673490,
+                    "longitude": -70.783599
+                },
+				{
+                    "latitude": -52.670971,
+                    "longitude": -70.835438
+                },
+				{
+                    "latitude": -52.671429,
+                    "longitude": -70.887432
+                },
+				{
+                    "latitude": -52.674858,
+                    "longitude": -70.939121
+                },
+				{
+                    "latitude": -52.681229,
+                    "longitude": -70.990053
+                },
+				{
+                    "latitude": -52.690484,
+                    "longitude": -71.039777
+                },
+				{
+                    "latitude": -52.702541,
+                    "longitude": -71.087855
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+		{
+            "author": "buur",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33aaffff",
+            "id": "{527de135-ef20-4c5e-bbb6-c7e9631c54fc}",
+            "lineWidth": 1,
+            "name": "SCR 47",
+            "points": [
+                {
+                    "latitude": -52.746542,
+                    "longitude": -70.504172
+                },
+                {
+                    "latitude": -52.307175,
+                    "longitude": -69.919492
+                },
+				
+                {
+                    "latitude": -52.327247,
+                    "longitude": -69.880163
+                },
+                {
+                    "latitude": -52.348135,
+                    "longitude": -69.841961
+                },
+				{
+                    "latitude": -52.369817,
+                    "longitude":  -69.804933
+                },
+				{
+                    "latitude": -52.392266,
+                    "longitude": -69.769124
+                },
+				{
+                    "latitude": -52.415457,
+                    "longitude": -69.734578
+                },
+				{
+                    "latitude": -52.439363,
+                    "longitude": -69.701337
+                },
+				{
+                    "latitude": -52.463955,
+                    "longitude": -69.669444
+                },
+				
+				{
+                    "latitude": -52.489289,
+                    "longitude": -69.639131
+                },
+				{
+                    "latitude": -52.334528,
+                    "longitude": -69.28475
+                },
+				
+				{
+                    "latitude": -52.529688,
+                    "longitude": -69.098656
+                },
+				{
+                    "latitude": -52.743026,
+                    "longitude": -68.976331
+                },
+				{
+                    "latitude": -52.966713,
+                    "longitude": -68.923269
+                },
+				{
+                    "latitude": -53.192411,
+                    "longitude": -68.942557
+                },
+				{
+                    "latitude": -53.411572,
+                    "longitude": -69.034599
+                },
+				{
+                    "latitude": -53.615770,
+                    "longitude": -69.196937
+                },
+				{
+                    "latitude": -53.797043,
+                    "longitude": -69.424175
+                },
+				
+				{
+                    "latitude": -53.947389,
+                    "longitude": -69.709131
+                },
+				{
+                    "latitude": -53.274389,
+                    "longitude": -70.531775
+                },
+				
+
+				
+				
+				{
+                    "latitude": -53.223155,
+                    "longitude": -70.438386
+                },
+				{
+                    "latitude": -53.160506,
+                    "longitude": -70.366989
+                },
+				{
+                    "latitude": -53.089744,
+                    "longitude": -70.321250
+                },
+				{
+                    "latitude": -53.014581,
+                    "longitude": -70.303444
+                },
+				{
+                    "latitude": -52.938943,
+                    "longitude": -70.314355
+                },
+				{
+                    "latitude": -52.866761,
+                    "longitude": -70.353265
+                },
+				{
+                    "latitude": -52.801764,
+                    "longitude": -70.418025
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+		{
+            "author": "buur",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33aaffff",
+            "id": "{527de135-ef20-4c5e-bbb6-c7e9631c54fc}",
+            "lineWidth": 1,
+            "name": "SCR 48",
+            "points": [
+                {
+                    "latitude": -53.321708,
+                    "longitude": -70.688867
+                },
+                {
+                    "latitude": -53.766953,
+                    "longitude": -70.446764
+                },
+                {
+                    "latitude": -53.766667,
+                    "longitude": -70.516667
+                },
+                {
+                    "latitude": -53.916667,
+                    "longitude": -70.516667
+                },
+				{
+                    "latitude": -53.915608,
+                    "longitude":  -70.366450
+                },
+				{
+                    "latitude": -54.281217,
+                    "longitude": -70.168525
+                },
+				
+				{
+                    "latitude": -54.312712,
+                    "longitude": -70.366362
+                },
+				{
+                    "latitude": -54.333393,
+                    "longitude": -70.568397
+                },
+				{
+                    "latitude": -54.343088,
+                    "longitude": -70.772854
+                },
+				{
+                    "latitude": -54.341719,
+                    "longitude": -70.977932
+                },
+				{
+                    "latitude": -54.329308,
+                    "longitude": -71.181826
+                },
+				{
+                    "latitude": -54.305975,
+                    "longitude": -71.382746
+                },
+				{
+                    "latitude": -54.271933,
+                    "longitude": -71.578941
+                },
+				
+				{
+                    "latitude": -54.228908,
+                    "longitude": -71.769811
+                },
+				{
+                    "latitude": -53.308989,
+                    "longitude": -71.076497
+                },
+				{
+                    "latitude": -53.327959,
+                    "longitude": -70.982651
+                },
+				
+				{
+                    "latitude": -53.336596,
+                    "longitude": -70.884612
+                },
+				
+				{
+                    "latitude": -53.334617,
+                    "longitude": -70.785550
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+		{
+            "author": "buur",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33aaffff",
+            "id": "{527de135-ef20-4c5e-bbb6-c7e9631c54fc}",
+            "lineWidth": 1,
+            "name": "SCP 3",
+            "points": [
+                {
+                    "latitude": -53.766667,
+                    "longitude": -70.516667
+                },
+                {
+                    "latitude": -53.766667,
+                    "longitude": -70.325
+                },
+                {
+                    "latitude": -53.916667,
+                    "longitude": -70.325
+                },
+                {
+                    "latitude": -53.916667,
+                    "longitude": -70.516667
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+		{
+            "author": "buur",
+            "brushStyle": 1,
+            "color": "#ff00ffff",
+            "colorBg": "#33aaffff",
+            "id": "{527de135-ef20-4c5e-bbb6-c7e9631c54fc}",
+            "lineWidth": 1,
+            "name": "SCD 33",
+            "points": [
+                {
+                    "latitude": -52.758333,
+                    "longitude": -71.05
+                },
+                {
+                    "latitude": -52.558333,
+                    "longitude": -70.483333
+                },
+                {
+                    "latitude": -52.75,
+                    "longitude": -70.291667
+                },
+                {
+                    "latitude": -52.95,
+                    "longitude": -70.866667
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        }
+ 
+
+
+    ],
+    "enable": "true",
+    "id": "{46c8de91-91b9-4023-9dfb-b36db1a089de}",
+    "name": "Default layer",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.6.400",
+    "visible": true
+}
 
